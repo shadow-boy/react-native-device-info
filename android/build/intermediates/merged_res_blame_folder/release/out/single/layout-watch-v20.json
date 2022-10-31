@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lanster.wang/Desktop/web_cross_app/ResumeBuildApp/node_modules/react-native-device-info/android/build/intermediates/merged_res/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/lanster.wang/.gradle/caches/transforms-3/acc940f9d1e2fbe78507503786269365/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/lanster.wang/Desktop/web_cross_app/ResumeBuildApp/node_modules/react-native-device-info/android/build/intermediates/merged_res/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/lanster.wang/.gradle/caches/transforms-3/acc940f9d1e2fbe78507503786269365/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]
